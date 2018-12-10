@@ -1,0 +1,3 @@
+[submodule "git-one"]
+	path = git-one
+	url = https://github.com/Bradwast88/git-one.git
